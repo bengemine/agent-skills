@@ -1,0 +1,5 @@
+interface:
+  display_name: "Simple"
+  short_description: "Rewrite the last reply in plain English"
+policy:
+  allow_implicit_invocation: false

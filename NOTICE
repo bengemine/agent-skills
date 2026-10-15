@@ -1,0 +1,44 @@
+agent-skills is MIT licensed (see LICENSE).
+
+skills/writing/personal-writing-voice/references/AI-TELLS.md adapts parts of
+two MIT-licensed projects. Some tell names and short example phrases are
+reused almost word for word; the rest is rewritten.
+
+  blader/humanizer (https://github.com/blader/humanizer)
+  Copyright (c) 2025 Siqi Chen
+  MIT License. Its pattern list is based on Wikipedia's "Signs of AI writing"
+  page (https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). No text
+  from that page is copied into this repository.
+
+  petergyang/no-ai-slop (https://github.com/petergyang/no-ai-slop)
+  Copyright (c) 2026 Peter Yang
+  MIT License.
+
+The MIT License text for both projects:
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+The herdr-orchestration and supervise-agents skills drive Herdr
+(https://github.com/herdrdev/herdr) and rely on the "herdr" skill that
+ships with it. Herdr is not included in this repository.
+
+skills/automation/teams-hands-free talks to Microsoft's private consumer Teams
+and OneDrive services and signs in with the Teams web app's public client id.
+It is not made, endorsed or supported by Microsoft. Microsoft Teams and
+OneDrive are trademarks of Microsoft.

@@ -1,0 +1,12 @@
+{
+  "email": "you@example.com",
+  "draft_with": "Use the personal-writing-voice skill. Keep chat messages short and casual.",
+  "phrasings": {
+    "thanks after someone helped": "Thanks, that sorted it.",
+    "running late to a call": "Running about 5 minutes late, will join soon."
+  },
+  "test_chat": {
+    "name": "My test group",
+    "id": "19:replace-with-your-test-group-id@thread.v2"
+  }
+}

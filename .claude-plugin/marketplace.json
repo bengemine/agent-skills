@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bengemine",
+  "owner": {
+    "name": "bengemine",
+    "url": "https://github.com/bengemine"
+  },
+  "description": "bengemine's agent skills as an installable plugin.",
+  "plugins": [
+    {
+      "name": "bengemine-skills",
+      "source": "./",
+      "description": "Skills for running many AI agents at once (Herdr orchestration, supervision, terminal spawning), for plain-English writing, and a personal Teams chat helper.",
+      "category": "productivity",
+      "homepage": "https://github.com/bengemine/agent-skills",
+      "author": {
+        "name": "bengemine",
+        "url": "https://github.com/bengemine"
+      },
+      "keywords": ["skills", "agents", "herdr", "writing", "plain-english"]
+    }
+  ]
+}

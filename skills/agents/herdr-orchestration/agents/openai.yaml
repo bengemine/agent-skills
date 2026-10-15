@@ -1,0 +1,3 @@
+interface:
+  display_name: "Herdr Orchestration"
+  short_description: "Drive Claude or Codex agents in other Herdr tabs"

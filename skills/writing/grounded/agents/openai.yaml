@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grounded"
+  short_description: "Explain at full depth in very simple English"
+policy:
+  allow_implicit_invocation: false

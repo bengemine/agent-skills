@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spawn Agent Terminal"
+  short_description: "Open Codex or Claude in a new WSL terminal with a prompt."
+  default_prompt: "Open a new terminal running Codex with this prompt: <prompt>"

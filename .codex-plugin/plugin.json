@@ -1,0 +1,19 @@
+{
+  "name": "bengemine-skills",
+  "version": "0.1.0",
+  "description": "Skills I use every day to run many AI agents at once and to write and explain things plainly.",
+  "author": {
+    "name": "bengemine",
+    "url": "https://github.com/bengemine"
+  },
+  "homepage": "https://github.com/bengemine/agent-skills",
+  "repository": "https://github.com/bengemine/agent-skills",
+  "license": "MIT",
+  "keywords": ["skills", "agents", "herdr", "orchestration", "writing", "plain-english", "teams"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "bengemine skills",
+    "shortDescription": "Run many AI agents at once, and write and explain things plainly",
+    "category": "productivity"
+  }
+}

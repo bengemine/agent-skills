@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supervise Agents"
+  short_description: "Supervise Herdr agents through verified completion"
+  default_prompt: "Use $supervise-agents to supervise this task through Herdr until its acceptance criteria pass."
