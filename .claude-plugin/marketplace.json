@@ -10,7 +10,7 @@
     {
       "name": "bengemine-skills",
       "source": "./",
-      "description": "Skills for running many AI agents at once (Herdr orchestration, supervision, terminal spawning), for plain-English writing, and a personal Teams chat helper.",
+      "description": "Skills for running many AI agents at once (Herdr orchestration, supervision, terminal spawning), for plain-English writing, and a Teams chat helper.",
       "category": "productivity",
       "homepage": "https://github.com/bengemine/agent-skills",
       "author": {

@@ -8,5 +8,13 @@
   "test_chat": {
     "name": "My test group",
     "id": "19:replace-with-your-test-group-id@thread.v2"
+  },
+  "work": {
+    "email": "you@yourcompany.com",
+    "name": "Acme",
+    "test_chat": {
+      "name": "test conv",
+      "id": "19:replace-with-your-work-test-group-id@thread.v2"
+    }
   }
 }

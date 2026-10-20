@@ -24,7 +24,7 @@ The other person is waiting, so every second between their message and yours cou
 3. Reply to everything they sent with `say` again, and repeat.
 4. `{"still_waiting": true}` means 9 minutes passed with no reply: run `scripts/converse.py wait <chat-id>` to keep waiting.
 
-Done when they wrap up (bye, ok then, talk later and similar): send the closing with `teams_chats.py send`, not `say`, and stop. Also stop on `{"silent_minutes": 60}` (exit code 1). Log each message (local time, who, text) to a file as you go, and add a one-line summary at the end.
+Done when they wrap up (bye, ok then, talk later and similar, in whatever language they use): send the closing with `teams_chats.py send`, not `say`, and stop. Also stop on `{"silent_minutes": 60}` (exit code 1). Log each message (local time, who, text) to a file as you go, and add a one-line summary at the end.
 
 ## Gotchas
 
